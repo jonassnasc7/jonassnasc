@@ -21,8 +21,6 @@
 <a href="https://instagram.com/jonass.nasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/jonassnasc7/jonassnasc7/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonassnasc7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
