@@ -1,6 +1,6 @@
-# Jonas Nasc na situação, bb😄😄😄
+# joninhas na situação, bb😄😄😄
 
-## Hello, joninhas!! 👋
+## fala, galerinha!! 👋
 
 - 🔭 2/3 terminando o ensino médio.
 - 🤔 cursando em técnico de informática.
@@ -21,10 +21,5 @@
 <a href="https://instagram.com/jonass.nasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-<a href="https://github.com/jonassnasc7">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?jonassnasc7=jonas.n.santos@al.estudante.senai.br&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?jonassnasc7=jonas.n.santos@al.estudante.senai.br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
-![Snake animation](https://github.com/jonassnasc7/jonas.n.santos@al.estudante.senai.br/blob/output/github-contribution-grid-snake.svg)
+
