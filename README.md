@@ -1,6 +1,6 @@
-# joninhas na situação, bb😄😄😄
+# jonas nasc
 
-## fala, galerinha!! 👋
+##
 
 - 🔭 2/3 terminando o ensino médio.
 - 🤔 cursando em técnico de informática.
